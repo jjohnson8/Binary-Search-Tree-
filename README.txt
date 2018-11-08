@@ -1,4 +1,4 @@
-This is a Binary search tree class with lazy deletion that has TreeNode as nested class in Java
+This is a Binary search tree class with lazy deletion 
 The program does the following operations: 
  Insert
    Insert a new element to a leaf node. 
